@@ -130,6 +130,7 @@ public class V2 {
         stall=false;
         System.out.println("WB");
         System.out.println(reg[x][0]+"="+reg[x][1]);
+        System.out.println("Github Sample");
     }
     
 }
